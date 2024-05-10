@@ -10,7 +10,7 @@ Berikut File Tugas UTS Mengenai Analisa Kebutuhan Sistem Informasi Persediaan Ba
 
 [Analisa Kebutuhan Sistem PT Minezawa Trading Indonesiaa.pdf](https://github.com/AgengListiyatYono/Analisa_Kebutuhan_Sistem_UTS/files/15271383/Analisa.Kebutuhan.Sistem.PT.Minezawa.Trading.Indonesiaa.pdf)
 
-Berikut Link Youtube Mengenai Pemaparan Materi
+Berikut Link Youtube Mengenai Pemaparan Materi 
 
 https://youtu.be/s31Hd_JfFbw?si=tIci-mJ48XnhJk96
 
